@@ -11,7 +11,7 @@ Hello! This is RizBot, a todo-list manager that is based off the mannerisms of m
 ## **How to run the JAR file after downloading it**
 1. Before runing this application, ensure you have Java JDK 11 installed on your system.\
     You can download it from [here](https://www.oracle.com/java/technologies/downloads/#java11-windows).
-2. Download the RizBot jar file from [here](https://github.com/TheodoreKooo/ip/releases/tag/A-Release)
+2. Download the RizBot jar file from [here](https://github.com/TheodoreKooo/ip/releases/tag/A-Release).
 3. Open the command prompt/terminal on your computer and navigate to the directory containing the JAR file.\
     For example: ``cd NUS Y2S2/CS2103T/ip/build/libs``.
 4. Run the jar file by typing ``java -jar RizBot.jar``.
